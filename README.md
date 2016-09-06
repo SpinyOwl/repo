@@ -1,2 +1,9 @@
->æå‰Ä^¦‹"¶ŠòN‹¬zØb²·©¢È­¢¼²¢ë!¢é]i×a¶Úlÿø"¶V›r‰¿.*®‰Ñ'‚)Şş·©£úÚÃúŞ•æ¬zÇè®·¥y«²m¦Ïÿ‚+ei·(›òâªèx"ïëzš?­¬?²v©²-±ú+²v©²-±«,z»Ş®Ú2¢êæj÷§ş
-ÚvW›º)]±Êâ¦
+# Public Repository
+
+**To use this repository you should add**
+
+`https://gitlab.com/LiquidEngine/repo/raw/releases` **for releases**
+ 
+`https://gitlab.com/LiquidEngine/repo/raw/snapshots` **for snapshots**
+
+**to your gradle/maven build script**
