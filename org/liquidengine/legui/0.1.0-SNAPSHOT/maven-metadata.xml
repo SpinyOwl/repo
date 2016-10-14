@@ -2,11 +2,12 @@
 <metadata>
   <groupId>org.liquidengine</groupId>
   <artifactId>legui</artifactId>
+  <version>0.1.0-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>0.0.4-SNAPSHOT</version>
-      <version>0.1.0-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20161014.224251</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20161014224251</lastUpdated>
   </versioning>
 </metadata>
