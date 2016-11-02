@@ -9,7 +9,7 @@
     <dependency>
       <groupId>org.joml</groupId>
       <artifactId>joml</artifactId>
-      <version>1.8.3-SNAPSHOT</version>
+      <version>1.9.1-SNAPSHOT</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -33,77 +33,74 @@
     <dependency>
       <groupId>org.lwjgl</groupId>
       <artifactId>lwjgl</artifactId>
-      <version>3.0.1-SNAPSHOT</version>
+      <version>3.1.1-SNAPSHOT</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.lwjgl</groupId>
-      <artifactId>lwjgl</artifactId>
-      <version>3.0.1-SNAPSHOT</version>
+      <artifactId>lwjgl-glfw</artifactId>
+      <version>3.1.1-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.lwjgl</groupId>
+      <artifactId>lwjgl-glfw</artifactId>
+      <version>3.1.1-SNAPSHOT</version>
       <classifier>natives-windows</classifier>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.lwjgl</groupId>
-      <artifactId>lwjgl</artifactId>
-      <version>3.0.1-SNAPSHOT</version>
+      <artifactId>lwjgl-glfw</artifactId>
+      <version>3.1.1-SNAPSHOT</version>
       <classifier>natives-linux</classifier>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.lwjgl</groupId>
-      <artifactId>lwjgl</artifactId>
-      <version>3.0.1-SNAPSHOT</version>
+      <artifactId>lwjgl-glfw</artifactId>
+      <version>3.1.1-SNAPSHOT</version>
       <classifier>natives-macos</classifier>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.lwjgl</groupId>
-      <artifactId>lwjgl-glfw</artifactId>
-      <version>3.0.1-SNAPSHOT</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.lwjgl</groupId>
-      <artifactId>lwjgl-glfw</artifactId>
-      <version>3.0.1-SNAPSHOT</version>
-      <classifier>natives-windows</classifier>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.lwjgl</groupId>
-      <artifactId>lwjgl-glfw</artifactId>
-      <version>3.0.1-SNAPSHOT</version>
-      <classifier>natives-linux</classifier>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.lwjgl</groupId>
-      <artifactId>lwjgl-glfw</artifactId>
-      <version>3.0.1-SNAPSHOT</version>
-      <classifier>natives-macos</classifier>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.lwjgl</groupId>
-      <artifactId>lwjgl-platform</artifactId>
-      <version>3.0.1-SNAPSHOT</version>
-      <classifier>natives-windows</classifier>
+      <artifactId>lwjgl</artifactId>
+      <version>3.1.1-SNAPSHOT</version>
+      <type>natives-windows</type>
       <scope>runtime</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>*</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.lwjgl</groupId>
-      <artifactId>lwjgl-platform</artifactId>
-      <version>3.0.1-SNAPSHOT</version>
-      <classifier>natives-linux</classifier>
+      <artifactId>lwjgl</artifactId>
+      <version>3.1.1-SNAPSHOT</version>
+      <type>natives-linux</type>
       <scope>runtime</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>*</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.lwjgl</groupId>
-      <artifactId>lwjgl-platform</artifactId>
-      <version>3.0.1-SNAPSHOT</version>
-      <classifier>natives-osx</classifier>
+      <artifactId>lwjgl</artifactId>
+      <version>3.1.1-SNAPSHOT</version>
+      <type>natives-macos</type>
       <scope>runtime</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>*</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
