@@ -67,40 +67,22 @@
       <groupId>org.lwjgl</groupId>
       <artifactId>lwjgl</artifactId>
       <version>3.1.1-SNAPSHOT</version>
-      <type>natives-windows</type>
+      <classifier>natives-windows</classifier>
       <scope>runtime</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
-        </exclusion>
-      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.lwjgl</groupId>
       <artifactId>lwjgl</artifactId>
       <version>3.1.1-SNAPSHOT</version>
-      <type>natives-linux</type>
+      <classifier>natives-linux</classifier>
       <scope>runtime</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
-        </exclusion>
-      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.lwjgl</groupId>
       <artifactId>lwjgl</artifactId>
       <version>3.1.1-SNAPSHOT</version>
-      <type>natives-macos</type>
+      <classifier>natives-macos</classifier>
       <scope>runtime</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
-        </exclusion>
-      </exclusions>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
