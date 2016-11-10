@@ -2,8 +2,8 @@
 
 **To use this repository you should add**
 
-`https://gitlab.com/LiquidEngine/repo/raw/releases` **for releases**
+`https://raw.github.com/LiquidEngine/repo/releases` **for releases**
  
-`https://gitlab.com/LiquidEngine/repo/raw/snapshots` **for snapshots**
+`https://raw.github.com/LiquidEngine/repo/snapshots` **for snapshots**
 
 **to your gradle/maven build script**
