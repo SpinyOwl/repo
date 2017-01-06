@@ -5,16 +5,9 @@
   <version>0.2.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-<<<<<<< HEAD
       <timestamp>20170106.002322</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <lastUpdated>20170106002322</lastUpdated>
-=======
-      <timestamp>20161227.010553</timestamp>
-      <buildNumber>1</buildNumber>
-    </snapshot>
-    <lastUpdated>20161227010553</lastUpdated>
->>>>>>> 96015c85929fde78522418295cbfe9703561b661
   </versioning>
 </metadata>
