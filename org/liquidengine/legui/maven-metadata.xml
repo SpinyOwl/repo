@@ -4,11 +4,6 @@
   <artifactId>legui</artifactId>
   <versioning>
     <versions>
-<<<<<<< HEAD
-      <version>0.2.1-SNAPSHOT</version>
-    </versions>
-    <lastUpdated>20170106002322</lastUpdated>
-=======
       <version>0.0.4-SNAPSHOT</version>
       <version>0.1.0-SNAPSHOT</version>
       <version>0.1.1-SNAPSHOT</version>
@@ -21,7 +16,6 @@
       <version>0.2.0-SNAPSHOT</version>
       <version>0.2.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20161227010553</lastUpdated>
->>>>>>> 96015c85929fde78522418295cbfe9703561b661
+    <lastUpdated>20170106002322</lastUpdated>
   </versioning>
 </metadata>
