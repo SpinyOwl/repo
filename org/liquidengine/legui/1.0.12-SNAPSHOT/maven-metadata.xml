@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.liquidengine</groupId>
+  <artifactId>legui</artifactId>
+  <version>1.0.12-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170723.181028</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20170723181028</lastUpdated>
+  </versioning>
+</metadata>
