@@ -3,13 +3,14 @@
   <groupId>org.liquidengine</groupId>
   <artifactId>legui</artifactId>
   <versioning>
-    <release>1.2.7-118</release>
+    <release>1.3.0-119</release>
     <versions>
       <version>1.2.7-1</version>
       <version>1.2.7-2</version>
       <version>1.2.7-117</version>
       <version>1.2.7-118</version>
+      <version>1.3.0-119</version>
     </versions>
-    <lastUpdated>20171015221143</lastUpdated>
+    <lastUpdated>20171025203325</lastUpdated>
   </versioning>
 </metadata>
