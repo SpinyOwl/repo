@@ -3,10 +3,11 @@
   <groupId>org.liquidengine</groupId>
   <artifactId>cbchain</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>0.1.2</release>
     <versions>
       <version>1.0.0</version>
+      <version>0.1.2</version>
     </versions>
-    <lastUpdated>20180531161617</lastUpdated>
+    <lastUpdated>20180601091455</lastUpdated>
   </versioning>
 </metadata>
