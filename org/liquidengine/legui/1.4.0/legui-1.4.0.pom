@@ -51,13 +51,13 @@
     <dependency>
       <groupId>org.liquidengine</groupId>
       <artifactId>cbchain</artifactId>
-      <version>0.1.2</version>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.liquidengine</groupId>
       <artifactId>leutil</artifactId>
-      <version>0.0.3</version>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
