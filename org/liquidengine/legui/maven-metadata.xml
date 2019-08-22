@@ -3,7 +3,7 @@
   <groupId>org.liquidengine</groupId>
   <artifactId>legui</artifactId>
   <versioning>
-    <release>2.0.0-70</release>
+    <release>2.0.0-71</release>
     <versions>
       <version>1.4.0-166</version>
       <version>1.4.1-168</version>
@@ -45,7 +45,8 @@
       <version>2.0.0-68</version>
       <version>2.0.0-69</version>
       <version>2.0.0-70</version>
+      <version>2.0.0-71</version>
     </versions>
-    <lastUpdated>20190822131908</lastUpdated>
+    <lastUpdated>20190822150057</lastUpdated>
   </versioning>
 </metadata>
