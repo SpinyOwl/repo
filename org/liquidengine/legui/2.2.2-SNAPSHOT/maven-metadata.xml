@@ -5,32 +5,32 @@
   <version>2.2.2-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20200425.152044</timestamp>
-      <buildNumber>8</buildNumber>
+      <timestamp>20200429.092944</timestamp>
+      <buildNumber>9</buildNumber>
     </snapshot>
-    <lastUpdated>20200425152044</lastUpdated>
+    <lastUpdated>20200429092944</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>2.2.2-20200425.152044-8</value>
-        <updated>20200425152044</updated>
+        <value>2.2.2-20200429.092944-9</value>
+        <updated>20200429092944</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.2.2-20200425.152044-8</value>
-        <updated>20200425152044</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>sources</classifier>
-        <extension>jar</extension>
-        <value>2.2.2-20200425.152044-8</value>
-        <updated>20200425152044</updated>
+        <value>2.2.2-20200429.092944-9</value>
+        <updated>20200429092944</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>2.2.2-20200425.152044-8</value>
-        <updated>20200425152044</updated>
+        <value>2.2.2-20200429.092944-9</value>
+        <updated>20200429092944</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>2.2.2-20200429.092944-9</value>
+        <updated>20200429092944</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
