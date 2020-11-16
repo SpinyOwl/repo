@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.liquidengine</groupId>
+  <artifactId>legui</artifactId>
+  <version>3.2.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20201116.211954</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20201116211954</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>3.2.4-20201116.211954-1</value>
+        <updated>20201116211954</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.2.4-20201116.211954-1</value>
+        <updated>20201116211954</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>3.2.4-20201116.211954-1</value>
+        <updated>20201116211954</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>3.2.4-20201116.211954-1</value>
+        <updated>20201116211954</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
