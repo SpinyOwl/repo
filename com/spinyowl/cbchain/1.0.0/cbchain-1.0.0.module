@@ -19,7 +19,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 16,
+        "org.gradle.jvm.version": 11,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
@@ -133,11 +133,11 @@
         {
           "name": "cbchain-1.0.0.jar",
           "url": "cbchain-1.0.0.jar",
-          "size": 26104,
-          "sha512": "730b26a995d14c8b282beb6eb1cce641ecf55e6d5ba5d8b48491de929385fa8897b94f6f88b2b8a7da31c71b8f44cc8e2c7d6d1def0aa874d52661775f96b1d5",
-          "sha256": "936f0ff9c4b8f733c9ff15757ff182aa2fdfe0e2a1d54dfc602d2ffb42d0092d",
-          "sha1": "3a64a035ed31a6b4a36ecfa20ac1b9feac4230be",
-          "md5": "abafa41fb73d0c87353f515f189bf7c4"
+          "size": 26407,
+          "sha512": "0da7d98d96b6483a24e84e16044ef0c739036ce9415b400839a4ec3654a9e1474b6f9e3a5521b4b24ab39a2f7426c2a66a9f137ef1e3eeb0b8bc9c059af16386",
+          "sha256": "a21eaf60447373839a04e2c80014964c377518b223febd3a1263ecba3d294895",
+          "sha1": "7442432635453b5b32ba9a5f30f81efc73a8e6b5",
+          "md5": "fc9696f0e7a4455a3b91a43be4ecbac3"
         }
       ]
     },
@@ -146,7 +146,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 16,
+        "org.gradle.jvm.version": 11,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
@@ -260,11 +260,11 @@
         {
           "name": "cbchain-1.0.0.jar",
           "url": "cbchain-1.0.0.jar",
-          "size": 26104,
-          "sha512": "730b26a995d14c8b282beb6eb1cce641ecf55e6d5ba5d8b48491de929385fa8897b94f6f88b2b8a7da31c71b8f44cc8e2c7d6d1def0aa874d52661775f96b1d5",
-          "sha256": "936f0ff9c4b8f733c9ff15757ff182aa2fdfe0e2a1d54dfc602d2ffb42d0092d",
-          "sha1": "3a64a035ed31a6b4a36ecfa20ac1b9feac4230be",
-          "md5": "abafa41fb73d0c87353f515f189bf7c4"
+          "size": 26407,
+          "sha512": "0da7d98d96b6483a24e84e16044ef0c739036ce9415b400839a4ec3654a9e1474b6f9e3a5521b4b24ab39a2f7426c2a66a9f137ef1e3eeb0b8bc9c059af16386",
+          "sha256": "a21eaf60447373839a04e2c80014964c377518b223febd3a1263ecba3d294895",
+          "sha1": "7442432635453b5b32ba9a5f30f81efc73a8e6b5",
+          "md5": "fc9696f0e7a4455a3b91a43be4ecbac3"
         }
       ]
     },
@@ -280,11 +280,11 @@
         {
           "name": "cbchain-1.0.0-javadoc.jar",
           "url": "cbchain-1.0.0-javadoc.jar",
-          "size": 217764,
-          "sha512": "efe8255c8a1803bd8bc1204f5b17179ed97ed8c0e46eccb8acbd92568191ceb32da338576276d49c0a61d1be17d9e04b053dc57e5a40233d1fd53684eddc2efd",
-          "sha256": "25f2c60c0cce6456f6829b568ee9da265d88b6591968b7bd98c53f3c66ae97f7",
-          "sha1": "c5fad8801cdfa1e0b574f2ce0be5fc2128f7e51b",
-          "md5": "dfabdeec387a3932fe75168173f51784"
+          "size": 221275,
+          "sha512": "2771e0eb994d1e5c68b6c43bdb020e71304dc50bc716ec407d7dbb6a224f17fa3ec163fed22845da6ba86bb9a787d83e05e38b63e2450baf2f234c5b00df6a0b",
+          "sha256": "5e38e61c7b3e6e168e634a1f722cb5983ca7952a91415660e8dcadbb492689aa",
+          "sha1": "11ef07324a6b757d1f049466f534e216201a4829",
+          "md5": "ceecc7127a2925e9f5cbd0ce0b291eca"
         }
       ]
     },
@@ -300,11 +300,11 @@
         {
           "name": "cbchain-1.0.0-sources.jar",
           "url": "cbchain-1.0.0-sources.jar",
-          "size": 18083,
-          "sha512": "4e67731eeab71288915cbc5cbeaa557afda6c9317759bb79b614f8265e0844c0b6c46297aebc3b6a4f3859d49cbf448be691bcc5722932e789d2acda4cdc379f",
-          "sha256": "2181aed2c44528be45fdb09cae395d55aaa3986326474634b2833d532e4480a7",
-          "sha1": "b3b356a563ad87176ab1336755b26370a22ff5e7",
-          "md5": "5f58e8e4e2f211f12b7c9183367a6cdf"
+          "size": 18271,
+          "sha512": "d5ab47b5bdd0ccf86e216f0d891b3682ecb6c410bd2ccdd5bb2282343c926e43c51dcc64ab0e402d49d3a1367b71fcc4b0a2de0fb6a654761dd9952480d53762",
+          "sha256": "6db7b9a965b92facc90877c78420a4613764b69882801058f4c0712b6c72c40a",
+          "sha1": "1bc74d35882b1a60f1828f1c98e51febaa14735b",
+          "md5": "c7e8fb2288126f53290634ed9e5e9548"
         }
       ]
     }
