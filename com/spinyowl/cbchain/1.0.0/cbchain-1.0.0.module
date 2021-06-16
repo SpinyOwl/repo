@@ -133,11 +133,11 @@
         {
           "name": "cbchain-1.0.0.jar",
           "url": "cbchain-1.0.0.jar",
-          "size": 26407,
-          "sha512": "0da7d98d96b6483a24e84e16044ef0c739036ce9415b400839a4ec3654a9e1474b6f9e3a5521b4b24ab39a2f7426c2a66a9f137ef1e3eeb0b8bc9c059af16386",
-          "sha256": "a21eaf60447373839a04e2c80014964c377518b223febd3a1263ecba3d294895",
-          "sha1": "7442432635453b5b32ba9a5f30f81efc73a8e6b5",
-          "md5": "fc9696f0e7a4455a3b91a43be4ecbac3"
+          "size": 26441,
+          "sha512": "332708dd2190ebceec3c8f70c1bc3612c910995ac1fa9c21571ca9d012481497e16d719c5e1a3d53cc0a27f629debe4967ae31cde0748642982e41422a491423",
+          "sha256": "43484e3308872cbeacedb4f1dc86bae92392a240a606225c8747361746826936",
+          "sha1": "4f2e0e8fb2ff49f2caa2e7569d82531c433fb1f3",
+          "md5": "fde3ca85c0087e79299485e2c7a56971"
         }
       ]
     },
@@ -260,11 +260,11 @@
         {
           "name": "cbchain-1.0.0.jar",
           "url": "cbchain-1.0.0.jar",
-          "size": 26407,
-          "sha512": "0da7d98d96b6483a24e84e16044ef0c739036ce9415b400839a4ec3654a9e1474b6f9e3a5521b4b24ab39a2f7426c2a66a9f137ef1e3eeb0b8bc9c059af16386",
-          "sha256": "a21eaf60447373839a04e2c80014964c377518b223febd3a1263ecba3d294895",
-          "sha1": "7442432635453b5b32ba9a5f30f81efc73a8e6b5",
-          "md5": "fc9696f0e7a4455a3b91a43be4ecbac3"
+          "size": 26441,
+          "sha512": "332708dd2190ebceec3c8f70c1bc3612c910995ac1fa9c21571ca9d012481497e16d719c5e1a3d53cc0a27f629debe4967ae31cde0748642982e41422a491423",
+          "sha256": "43484e3308872cbeacedb4f1dc86bae92392a240a606225c8747361746826936",
+          "sha1": "4f2e0e8fb2ff49f2caa2e7569d82531c433fb1f3",
+          "md5": "fde3ca85c0087e79299485e2c7a56971"
         }
       ]
     },
@@ -280,11 +280,11 @@
         {
           "name": "cbchain-1.0.0-javadoc.jar",
           "url": "cbchain-1.0.0-javadoc.jar",
-          "size": 221275,
-          "sha512": "2771e0eb994d1e5c68b6c43bdb020e71304dc50bc716ec407d7dbb6a224f17fa3ec163fed22845da6ba86bb9a787d83e05e38b63e2450baf2f234c5b00df6a0b",
-          "sha256": "5e38e61c7b3e6e168e634a1f722cb5983ca7952a91415660e8dcadbb492689aa",
-          "sha1": "11ef07324a6b757d1f049466f534e216201a4829",
-          "md5": "ceecc7127a2925e9f5cbd0ce0b291eca"
+          "size": 221551,
+          "sha512": "26d94fa6f01d9374465ae6e8c137ed409c603c4f2a26bb9d6910025066abd7653c11d8c0700445525fd8a8f257f4efe81b0023bde22ae2287d6d2f60831f8160",
+          "sha256": "d70f9eb0a29b085620a02951a21493423d79d2cd7fc238ab65395d344f44e3dd",
+          "sha1": "e8f23e39c6d64ad2af83032e295d9bc36cf3fa8f",
+          "md5": "f8f5fb9d136400cd86b130f0b7545adb"
         }
       ]
     },
@@ -300,11 +300,11 @@
         {
           "name": "cbchain-1.0.0-sources.jar",
           "url": "cbchain-1.0.0-sources.jar",
-          "size": 18271,
-          "sha512": "d5ab47b5bdd0ccf86e216f0d891b3682ecb6c410bd2ccdd5bb2282343c926e43c51dcc64ab0e402d49d3a1367b71fcc4b0a2de0fb6a654761dd9952480d53762",
-          "sha256": "6db7b9a965b92facc90877c78420a4613764b69882801058f4c0712b6c72c40a",
-          "sha1": "1bc74d35882b1a60f1828f1c98e51febaa14735b",
-          "md5": "c7e8fb2288126f53290634ed9e5e9548"
+          "size": 18290,
+          "sha512": "50bada96ba34b59c84bfb1c3fd6fcc40cbc33eacc94856b688269c5cd72ca7dab9561d4d20bebc4fbcea6cf69e3501bec856142a62203466dc906c751aa12bee",
+          "sha256": "a773f96b8f5e30506f8be9797c5055b93d4554d3af1822724bdf9b70a980ef1b",
+          "sha1": "2455e206f2e1135039e8c88dc91c51f53ec2020d",
+          "md5": "a7dfb42696773fcc98056c99a309266c"
         }
       ]
     }
