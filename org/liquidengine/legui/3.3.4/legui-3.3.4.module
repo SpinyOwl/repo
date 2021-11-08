@@ -404,11 +404,11 @@
         {
           "name": "legui-3.3.4.jar",
           "url": "legui-3.3.4.jar",
-          "size": 1354103,
-          "sha512": "d5ae7b28e136d1daccfb81529dd851bfb35162e76650d345a8e1409361ce59b3dc94b21ed9f6c48ea3f91f087842544223928bb6def2f497cdad8099178b44f5",
-          "sha256": "c4c8657308dc6719d0e96932f9544eafd9639763a20ea2720b04aaff95114161",
-          "sha1": "d16f77c3a29b5206feea781f28732e39aa088065",
-          "md5": "4dfe243ba22cbbc18c9453e3fef720b9"
+          "size": 1354104,
+          "sha512": "f2edfa7d0e32c16d5410259b95a85697a7fe3d770b24d3096cb8ef16da3849f98134717a3034e4da0ffc3306572527bb524b7d3b97238998a8d3abbabf16c1c5",
+          "sha256": "7f7af41d52bc4de42b7c1d18a7db51e073dc5724946ed6edae02f89570663715",
+          "sha1": "ecd5beb3170a841c69a4c62d3e571811b7d63dce",
+          "md5": "65d4ecb20015326a445c476c5afa354f"
         }
       ]
     },
@@ -802,11 +802,11 @@
         {
           "name": "legui-3.3.4.jar",
           "url": "legui-3.3.4.jar",
-          "size": 1354103,
-          "sha512": "d5ae7b28e136d1daccfb81529dd851bfb35162e76650d345a8e1409361ce59b3dc94b21ed9f6c48ea3f91f087842544223928bb6def2f497cdad8099178b44f5",
-          "sha256": "c4c8657308dc6719d0e96932f9544eafd9639763a20ea2720b04aaff95114161",
-          "sha1": "d16f77c3a29b5206feea781f28732e39aa088065",
-          "md5": "4dfe243ba22cbbc18c9453e3fef720b9"
+          "size": 1354104,
+          "sha512": "f2edfa7d0e32c16d5410259b95a85697a7fe3d770b24d3096cb8ef16da3849f98134717a3034e4da0ffc3306572527bb524b7d3b97238998a8d3abbabf16c1c5",
+          "sha256": "7f7af41d52bc4de42b7c1d18a7db51e073dc5724946ed6edae02f89570663715",
+          "sha1": "ecd5beb3170a841c69a4c62d3e571811b7d63dce",
+          "md5": "65d4ecb20015326a445c476c5afa354f"
         }
       ]
     },
@@ -822,11 +822,11 @@
         {
           "name": "legui-3.3.4-javadoc.jar",
           "url": "legui-3.3.4-javadoc.jar",
-          "size": 1919916,
-          "sha512": "273bd1ced363b8159e6cd89db85566f2086eb462e65382cb8d07205a75c3f141066448e33baa252d851e1c3070d83ac71369fb25da4075ea8e6acf9ae79524b6",
-          "sha256": "142f84c5fcd02c68f408d19fb8db5c3e8c69689150f3419e5e43044f251faba1",
-          "sha1": "704021593c28e5db905ce3375d7ac63378e66e3b",
-          "md5": "5f7640cf3b7e2cd63d54c78a88a2a38a"
+          "size": 1919876,
+          "sha512": "66a7c27cd4772763b395730df709491972e0be94abcb8b41859f031bfd850003f2666e301f8fa9a715cab9761c0a54e7363667b4f99902579364350d79640f4b",
+          "sha256": "b07c14b5369b084409d4b40720f9d8735ae23aa20786b0cbf78215ef7b1a4361",
+          "sha1": "cec26061fad5615d0581461a365e5606c927e1b2",
+          "md5": "db4da4dfdac15225dbc36bc73cf85b69"
         }
       ]
     },
@@ -842,11 +842,11 @@
         {
           "name": "legui-3.3.4-sources.jar",
           "url": "legui-3.3.4-sources.jar",
-          "size": 1322457,
-          "sha512": "61cd6c80e202e772ca88b03cb4c8db6106ab93fa5d15948c6b1bef8aca20e4dd8265d506f8725d444f5b9420c46920864e7bdfd7623a4f8a835600c2202d03d3",
-          "sha256": "c3a09651b59fabd8afdc46bc5acd7ae071d49b0eacc4f5f40d04a6e36c3cec7a",
-          "sha1": "0ecc5292b123da5bfa21a46e70a2ebe89b9aadb9",
-          "md5": "0cc7a7f4b1b49000f0c9054588aef324"
+          "size": 1322460,
+          "sha512": "f4b2d4619a1707cc6eeb35d9830968899fb2aae084ee38b4a08a1ccbba1dde36b6beedcf5a28fe3ad68f77527fc1635959a7b3f9bf4114306f197ce86581c330",
+          "sha256": "5523f87bc012587d5a72905e4acd0b3415c9379e8c052db4c2a2c20c4dc5700f",
+          "sha1": "eb4a4a3b3ecff0b1dff59193638a1de91db6b93f",
+          "md5": "2f99a6dd596c789aac0bd5da23c9731a"
         }
       ]
     }
