@@ -28,42 +28,42 @@
           "group": "org.reflections",
           "module": "reflections",
           "version": {
-            "requires": "0.9.11"
+            "requires": "0.10.2"
           }
         },
         {
           "group": "org.joml",
           "module": "joml",
           "version": {
-            "requires": "1.10.0"
+            "requires": "1.10.2"
           }
         },
         {
           "group": "commons-io",
           "module": "commons-io",
           "version": {
-            "requires": "2.7"
+            "requires": "2.11.0"
           }
         },
         {
           "group": "org.apache.commons",
           "module": "commons-lang3",
           "version": {
-            "requires": "3.4"
+            "requires": "3.12.0"
           }
         },
         {
           "group": "org.apache.commons",
           "module": "commons-collections4",
           "version": {
-            "requires": "4.1"
+            "requires": "4.4"
           }
         },
         {
           "group": "com.google.guava",
           "module": "guava",
           "version": {
-            "requires": "19.0"
+            "requires": "31.0.1-jre"
           }
         },
         {
@@ -84,14 +84,14 @@
           "group": "org.lwjgl",
           "module": "lwjgl-stb",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           }
         },
         {
           "group": "org.lwjgl",
           "module": "lwjgl-stb",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -106,7 +106,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-stb",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -121,7 +121,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-stb",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -136,14 +136,14 @@
           "group": "org.lwjgl",
           "module": "lwjgl-glfw",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           }
         },
         {
           "group": "org.lwjgl",
           "module": "lwjgl-glfw",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -158,7 +158,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-glfw",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -173,7 +173,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-glfw",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -188,14 +188,14 @@
           "group": "org.lwjgl",
           "module": "lwjgl-nanovg",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           }
         },
         {
           "group": "org.lwjgl",
           "module": "lwjgl-nanovg",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -210,7 +210,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-nanovg",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -225,7 +225,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-nanovg",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -240,14 +240,14 @@
           "group": "org.lwjgl",
           "module": "lwjgl-opengl",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           }
         },
         {
           "group": "org.lwjgl",
           "module": "lwjgl-opengl",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -262,7 +262,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-opengl",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -277,7 +277,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-opengl",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -292,14 +292,14 @@
           "group": "org.lwjgl",
           "module": "lwjgl",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           }
         },
         {
           "group": "org.lwjgl",
           "module": "lwjgl",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -314,7 +314,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -329,7 +329,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -344,14 +344,14 @@
           "group": "org.lwjgl",
           "module": "lwjgl-yoga",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           }
         },
         {
           "group": "org.lwjgl",
           "module": "lwjgl-yoga",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -366,7 +366,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-yoga",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -381,7 +381,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-yoga",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -397,11 +397,11 @@
         {
           "name": "legui-4.0.0.jar",
           "url": "legui-4.0.0.jar",
-          "size": 1352791,
-          "sha512": "2350b5ce5868b9e5d4f93e3deb1befb3dff158e33d5882d919e2dc87b874effb375da1da4a56d1a3247385e745a30bb63c29edfe05f30c7b04a03c80fc93ce1d",
-          "sha256": "becee42dc57bcac66aae970d2009dd33bf4be6e9342c767f8f90ecdf83fdeb5b",
-          "sha1": "486d993fb5cce9156ee7f7e45d86fd321ea887a8",
-          "md5": "3e67ddde009d9ffa2b0dc09f88cfee73"
+          "size": 1352792,
+          "sha512": "ed3af746022850a9e9022ed48f070d29aae8a37d59bc4d064ddd6b03e4ba0e51136d05315235cd995e69066bd82a1c0edd838790d81d6b03b139428cfb0c3b06",
+          "sha256": "4e8116e7064ac43ef39cd597a232825b73f5d2a95456903b6c604948488eeb60",
+          "sha1": "eadfd57587c886ade371e97729afa2605900f05c",
+          "md5": "a2c6820e7570c8f5b69c86faaa74427b"
         }
       ]
     },
@@ -419,42 +419,42 @@
           "group": "org.reflections",
           "module": "reflections",
           "version": {
-            "requires": "0.9.11"
+            "requires": "0.10.2"
           }
         },
         {
           "group": "org.joml",
           "module": "joml",
           "version": {
-            "requires": "1.10.0"
+            "requires": "1.10.2"
           }
         },
         {
           "group": "commons-io",
           "module": "commons-io",
           "version": {
-            "requires": "2.7"
+            "requires": "2.11.0"
           }
         },
         {
           "group": "org.apache.commons",
           "module": "commons-lang3",
           "version": {
-            "requires": "3.4"
+            "requires": "3.12.0"
           }
         },
         {
           "group": "org.apache.commons",
           "module": "commons-collections4",
           "version": {
-            "requires": "4.1"
+            "requires": "4.4"
           }
         },
         {
           "group": "com.google.guava",
           "module": "guava",
           "version": {
-            "requires": "19.0"
+            "requires": "31.0.1-jre"
           }
         },
         {
@@ -475,14 +475,14 @@
           "group": "org.lwjgl",
           "module": "lwjgl-stb",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           }
         },
         {
           "group": "org.lwjgl",
           "module": "lwjgl-stb",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -497,7 +497,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-stb",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -512,7 +512,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-stb",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -527,14 +527,14 @@
           "group": "org.lwjgl",
           "module": "lwjgl-glfw",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           }
         },
         {
           "group": "org.lwjgl",
           "module": "lwjgl-glfw",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -549,7 +549,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-glfw",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -564,7 +564,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-glfw",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -579,14 +579,14 @@
           "group": "org.lwjgl",
           "module": "lwjgl-nanovg",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           }
         },
         {
           "group": "org.lwjgl",
           "module": "lwjgl-nanovg",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -601,7 +601,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-nanovg",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -616,7 +616,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-nanovg",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -631,14 +631,14 @@
           "group": "org.lwjgl",
           "module": "lwjgl-opengl",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           }
         },
         {
           "group": "org.lwjgl",
           "module": "lwjgl-opengl",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -653,7 +653,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-opengl",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -668,7 +668,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-opengl",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -683,14 +683,14 @@
           "group": "org.lwjgl",
           "module": "lwjgl",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           }
         },
         {
           "group": "org.lwjgl",
           "module": "lwjgl",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -705,7 +705,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -720,7 +720,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -735,14 +735,14 @@
           "group": "org.lwjgl",
           "module": "lwjgl-yoga",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           }
         },
         {
           "group": "org.lwjgl",
           "module": "lwjgl-yoga",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -757,7 +757,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-yoga",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -772,7 +772,7 @@
           "group": "org.lwjgl",
           "module": "lwjgl-yoga",
           "version": {
-            "requires": "3.2.3"
+            "requires": "3.3.0"
           },
           "thirdPartyCompatibility": {
             "artifactSelector": {
@@ -788,11 +788,11 @@
         {
           "name": "legui-4.0.0.jar",
           "url": "legui-4.0.0.jar",
-          "size": 1352791,
-          "sha512": "2350b5ce5868b9e5d4f93e3deb1befb3dff158e33d5882d919e2dc87b874effb375da1da4a56d1a3247385e745a30bb63c29edfe05f30c7b04a03c80fc93ce1d",
-          "sha256": "becee42dc57bcac66aae970d2009dd33bf4be6e9342c767f8f90ecdf83fdeb5b",
-          "sha1": "486d993fb5cce9156ee7f7e45d86fd321ea887a8",
-          "md5": "3e67ddde009d9ffa2b0dc09f88cfee73"
+          "size": 1352792,
+          "sha512": "ed3af746022850a9e9022ed48f070d29aae8a37d59bc4d064ddd6b03e4ba0e51136d05315235cd995e69066bd82a1c0edd838790d81d6b03b139428cfb0c3b06",
+          "sha256": "4e8116e7064ac43ef39cd597a232825b73f5d2a95456903b6c604948488eeb60",
+          "sha1": "eadfd57587c886ade371e97729afa2605900f05c",
+          "md5": "a2c6820e7570c8f5b69c86faaa74427b"
         }
       ]
     },
@@ -809,10 +809,10 @@
           "name": "legui-4.0.0-javadoc.jar",
           "url": "legui-4.0.0-javadoc.jar",
           "size": 1907738,
-          "sha512": "5a875ebf008193bfd45a79ef362e5e7fa864d2e704dd19dd6fda4db191d75ba3929f058abb43181e1284fe6ac698594cfb7dee360cb7a702b7b8b08e72bfd81a",
-          "sha256": "908e88fb65a00ce8b0b22b97c8c4a3b85253afb4e8560448b1c7c2b81bec41ca",
-          "sha1": "4f0098f5ab6ed8ac0d04f3f678fb9b8e49283d52",
-          "md5": "a0641836ab3334ea8ef8a83077318137"
+          "sha512": "457c5f94d14f1b99eaa46915f8307940a88160c8f2345890558c19ec890daea40680478f6bec358bad64c0f3cdab49489f54cca98ad64984d7b61ebcd3e8f662",
+          "sha256": "f937a03e01cebe0bc199ba01fc3315c7089be8bbd74a4aa7d5dfc8e1b08fbc3a",
+          "sha1": "8d40cbc02e75bc1e6cc6266bf23d3eaf4eee0d6f",
+          "md5": "0706233249bd0b5bd9c32d77809c149f"
         }
       ]
     },
@@ -829,10 +829,10 @@
           "name": "legui-4.0.0-sources.jar",
           "url": "legui-4.0.0-sources.jar",
           "size": 1312846,
-          "sha512": "addcd9c5fbbe54f233eb4b0398fdd8cc637a471600ed5408063cef2c374b8e5c8c67de6df50eeaeefe176c6b17a6097d61aa01fcafde4917d47a6bb7edb13255",
-          "sha256": "762ffe72642b3db9ad97d08e099698c26fafbd35bfe0e5aad6fa85aad652b9eb",
-          "sha1": "2aa66b408aa8b1fe3879ec39f13af0925f99cde9",
-          "md5": "3e256e27ccfd8ad8a5265577b3f3f6fd"
+          "sha512": "676bced4b1b4e4b1cd80237be8326214666649f1c9ccae2dc42793490ae1be94238a2d545ae5124494bb644cf757d93ce7f49cf9548eb1c2607b60fc636cba55",
+          "sha256": "a644f908548993f7fe9c9dd1b7e77461ae43bad9e3248740755b81178788deda",
+          "sha1": "09bd3f94f76e32e3b3479f50eb03b8af4849d3dc",
+          "md5": "fc8d1bc980e3723885dfec8e07253669"
         }
       ]
     }
