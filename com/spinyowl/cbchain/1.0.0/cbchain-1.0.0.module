@@ -1,0 +1,312 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.spinyowl",
+    "module": "cbchain",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl",
+          "version": {
+            "requires": "3.3.1"
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl",
+          "version": {
+            "requires": "3.3.1"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "lwjgl",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-windows"
+            }
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl",
+          "version": {
+            "requires": "3.3.1"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "lwjgl",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-linux"
+            }
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl",
+          "version": {
+            "requires": "3.3.1"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "lwjgl",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-macos"
+            }
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-glfw",
+          "version": {
+            "requires": "3.3.1"
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-glfw",
+          "version": {
+            "requires": "3.3.1"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "lwjgl-glfw",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-windows"
+            }
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-glfw",
+          "version": {
+            "requires": "3.3.1"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "lwjgl-glfw",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-linux"
+            }
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-glfw",
+          "version": {
+            "requires": "3.3.1"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "lwjgl-glfw",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-macos"
+            }
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "cbchain-1.0.0.jar",
+          "url": "cbchain-1.0.0.jar",
+          "size": 26033,
+          "sha512": "a20baca80743d358a5b9133795b37d41bde44f97cca2f3a3a429389152cfcecdd62df83c77cb1bda14214e288fb7e77830058938856cb16d8d0c40f2f38ea996",
+          "sha256": "c55594b3819793754a91b3016300079db1b76e118972dc5ec8eab9fdbc7fc729",
+          "sha1": "8aee7afcd98040c480ad2efb9d3bccbde321b338",
+          "md5": "fe5ff769a749e946b0052b5fa121af36"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl",
+          "version": {
+            "requires": "3.3.1"
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl",
+          "version": {
+            "requires": "3.3.1"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "lwjgl",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-windows"
+            }
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl",
+          "version": {
+            "requires": "3.3.1"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "lwjgl",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-linux"
+            }
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl",
+          "version": {
+            "requires": "3.3.1"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "lwjgl",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-macos"
+            }
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-glfw",
+          "version": {
+            "requires": "3.3.1"
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-glfw",
+          "version": {
+            "requires": "3.3.1"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "lwjgl-glfw",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-windows"
+            }
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-glfw",
+          "version": {
+            "requires": "3.3.1"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "lwjgl-glfw",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-linux"
+            }
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-glfw",
+          "version": {
+            "requires": "3.3.1"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "lwjgl-glfw",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-macos"
+            }
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "cbchain-1.0.0.jar",
+          "url": "cbchain-1.0.0.jar",
+          "size": 26033,
+          "sha512": "a20baca80743d358a5b9133795b37d41bde44f97cca2f3a3a429389152cfcecdd62df83c77cb1bda14214e288fb7e77830058938856cb16d8d0c40f2f38ea996",
+          "sha256": "c55594b3819793754a91b3016300079db1b76e118972dc5ec8eab9fdbc7fc729",
+          "sha1": "8aee7afcd98040c480ad2efb9d3bccbde321b338",
+          "md5": "fe5ff769a749e946b0052b5fa121af36"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "cbchain-1.0.0-javadoc.jar",
+          "url": "cbchain-1.0.0-javadoc.jar",
+          "size": 128622,
+          "sha512": "014e4092342f457b25842b4e1a71217dec945e2e73c2f162c5b3f2f4b61e89bb7b3d562f8bc1320eea5c857ae53842d916f2c64c54ecafe87aabe18d7d61e1f0",
+          "sha256": "f4bed1222e44f78ab1771f52ded8e405f23d4bcdb33b0a7c4298e1922a58d29a",
+          "sha1": "151eccb2db359a3f54f63d43de3eeb228d5c3482",
+          "md5": "b60f9b8a0f8534876914530f227b23ed"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "cbchain-1.0.0-sources.jar",
+          "url": "cbchain-1.0.0-sources.jar",
+          "size": 18083,
+          "sha512": "c1d2ef8c0f62ff130619d31eefe0a2344d8cb5e5f8ec421a6fd972ccd606e396079f2d9340b1dc5e330162b8d4144ef70473c9706d684792a408d9dd51fee811",
+          "sha256": "a5b3df8b96c949b71edf35ab18da0f09e7081deddc44a613e5385a4c4d8b4cc2",
+          "sha1": "ee53b5935e74364a994b2c9eb86a40811af85350",
+          "md5": "0c589a7852cd4b94c13e958c0356f574"
+        }
+      ]
+    }
+  ]
+}
