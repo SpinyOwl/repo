@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.3"
+      "version": "8.1.1"
     }
   },
   "variants": [
@@ -25,13 +25,6 @@
       },
       "dependencies": [
         {
-          "group": "org.reflections",
-          "module": "reflections",
-          "version": {
-            "requires": "0.10.2"
-          }
-        },
-        {
           "group": "org.joml",
           "module": "joml",
           "version": {
@@ -39,24 +32,10 @@
           }
         },
         {
-          "group": "commons-io",
-          "module": "commons-io",
-          "version": {
-            "requires": "2.12.0"
-          }
-        },
-        {
           "group": "org.apache.commons",
           "module": "commons-lang3",
           "version": {
             "requires": "3.12.0"
-          }
-        },
-        {
-          "group": "org.apache.commons",
-          "module": "commons-collections4",
-          "version": {
-            "requires": "4.4"
           }
         },
         {
@@ -403,11 +382,11 @@
         {
           "name": "legui-4.1.1.jar",
           "url": "legui-4.1.1.jar",
-          "size": 1371628,
-          "sha512": "2b55d925be74f0fa89e196088589eb414e3543fdaae6e0670ad4267c887553086cf65323a304d6f8b66a714e14011c81e0ceaea02cf7b59f4bba7a53d69e1493",
-          "sha256": "96dcf7bc25681e3b6aec507a18dcf56b0950b810d4c3116be68894f395f48583",
-          "sha1": "a4f5d83243fb87ff47270a894d1beda729dfb734",
-          "md5": "23ff331b2f1475b40fea4c716decd917"
+          "size": 1371634,
+          "sha512": "0338ce07176d2185cf19aa424067b92e5e0c58146a1c016d0c2f77aca9398dd4bdc59d7d53758f96482191278023f6bf52bd9039e4291d706eed2c569058390c",
+          "sha256": "7b61398b49d431cb9a9f9e3f228c54f93bb6bfd1c68d823713dc08ac338a3515",
+          "sha1": "7f353bca245966bb6e79d0237a54503f8d302929",
+          "md5": "c76a040560c229d29c37030a417a8d1f"
         }
       ]
     },
@@ -422,13 +401,6 @@
       },
       "dependencies": [
         {
-          "group": "org.reflections",
-          "module": "reflections",
-          "version": {
-            "requires": "0.10.2"
-          }
-        },
-        {
           "group": "org.joml",
           "module": "joml",
           "version": {
@@ -436,24 +408,10 @@
           }
         },
         {
-          "group": "commons-io",
-          "module": "commons-io",
-          "version": {
-            "requires": "2.12.0"
-          }
-        },
-        {
           "group": "org.apache.commons",
           "module": "commons-lang3",
           "version": {
             "requires": "3.12.0"
-          }
-        },
-        {
-          "group": "org.apache.commons",
-          "module": "commons-collections4",
-          "version": {
-            "requires": "4.4"
           }
         },
         {
@@ -800,11 +758,11 @@
         {
           "name": "legui-4.1.1.jar",
           "url": "legui-4.1.1.jar",
-          "size": 1371628,
-          "sha512": "2b55d925be74f0fa89e196088589eb414e3543fdaae6e0670ad4267c887553086cf65323a304d6f8b66a714e14011c81e0ceaea02cf7b59f4bba7a53d69e1493",
-          "sha256": "96dcf7bc25681e3b6aec507a18dcf56b0950b810d4c3116be68894f395f48583",
-          "sha1": "a4f5d83243fb87ff47270a894d1beda729dfb734",
-          "md5": "23ff331b2f1475b40fea4c716decd917"
+          "size": 1371634,
+          "sha512": "0338ce07176d2185cf19aa424067b92e5e0c58146a1c016d0c2f77aca9398dd4bdc59d7d53758f96482191278023f6bf52bd9039e4291d706eed2c569058390c",
+          "sha256": "7b61398b49d431cb9a9f9e3f228c54f93bb6bfd1c68d823713dc08ac338a3515",
+          "sha1": "7f353bca245966bb6e79d0237a54503f8d302929",
+          "md5": "c76a040560c229d29c37030a417a8d1f"
         }
       ]
     },
@@ -820,11 +778,11 @@
         {
           "name": "legui-4.1.1-javadoc.jar",
           "url": "legui-4.1.1-javadoc.jar",
-          "size": 1560771,
-          "sha512": "107fa932ec2379e53d51f76a9aaa14d0f4c7abf25d2c6f4062108bbc0a4f6bf3e64d135ad553296e7b8280fe65473b4cf985bb423076ab7086aa923722faa0da",
-          "sha256": "f8efca6a9895c5d9c06d12d696e0322ef20a1efe8865e8111b1b5407cf2da8db",
-          "sha1": "62ac729e35e17003eb8d52d61f7548ff3cecfdef",
-          "md5": "5c4d42525b39aeb792a77be75e5ba510"
+          "size": 1560767,
+          "sha512": "58d46ead30b33bba33f0c91ccfed4eb36d38ffdd265aa1f154ed1911fb2bd1759b9a9a3925693c1fe64a30ac6cad9bdeb4b76df9b88c539018f0fa24454eeb85",
+          "sha256": "4ef5428e69fd1844b1e11f59cacc86233c716e2e51f6fbe8ce4da02c0538c5be",
+          "sha1": "a887a53d1b16ec049460fce69585f44c60b661dd",
+          "md5": "f48e945dec329edae4eada7534bcfe86"
         }
       ]
     },
@@ -840,11 +798,11 @@
         {
           "name": "legui-4.1.1-sources.jar",
           "url": "legui-4.1.1-sources.jar",
-          "size": 1323501,
-          "sha512": "b003036eb7c81f7a15433745804f6455158b3a73d995940ff06234f464b51abccf76f3e78be6151f4225e9286f6b5ca8354ea000a1697767244d70da866055c4",
-          "sha256": "f94738861f0ed2692412aead37e11c0b44d959664d014b8af578b4b6cd0ac5a9",
-          "sha1": "4532ddb76917c8c56deca96f888911afe2bdf34a",
-          "md5": "9a4c17456fd4bbb4d71fe24644de3da4"
+          "size": 1323489,
+          "sha512": "604baf8c84b2b322928e545132f3c66c680f4bf3a4b3a6376a635f415316c66a6afb7180a46d2b44aa278444a20bb0c788318f994a1f24fcd1fe30f7c2c0e7fa",
+          "sha256": "f6e767fb9b21c0662f036f87c6e1b6bcc3a9d995441a0d59ad825bf8af236639",
+          "sha1": "cbb02c7f5b66e7164bb45e07d5ac68e311fda44b",
+          "md5": "602d88d40e996c940bd99bf8e084a7bd"
         }
       ]
     }
